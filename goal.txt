@@ -1,0 +1,11 @@
+//we are going to use the node environment (most trusted one)
+//All the replies of the frontend requests are giving with the help of express js(framework) 
+//there are more frameworks on the internet but after learning the express we can transfer our knowledge
+//onwards we are going to use the MongoDB we will use this through (mongoose)
+//we have more things we are going to use MongoDB is Prisma or etc//depends on useCase
+//Mongoose is a middleman between Express Js and MongoDB
+
+
+//our stack to learn is --> Node js, Express js, Mongoose, MongoDB
+
+
